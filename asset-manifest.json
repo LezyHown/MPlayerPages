@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaginationDeploy/static/css/main.d84be4f9.css",
+    "main.js": "/PaginationDeploy/static/js/main.6e931195.js",
+    "index.html": "/PaginationDeploy/index.html",
+    "main.d84be4f9.css.map": "/PaginationDeploy/static/css/main.d84be4f9.css.map",
+    "main.6e931195.js.map": "/PaginationDeploy/static/js/main.6e931195.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d84be4f9.css",
+    "static/js/main.6e931195.js"
+  ]
+}
